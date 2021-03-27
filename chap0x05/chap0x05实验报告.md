@@ -71,5 +71,5 @@
 
 [Android 入门教程](https://blog.csdn.net/weixin_43883917/article/details/108950310?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-9&spm=1001.2101.3001.4242)
 
-[Gradle配置教程](Android Studio 使用本地gradle配置详解_xxf377376701的专栏-CSDN博客_android [gradle配置本地](https://blog.csdn.net/xxf377376701/article/details/78114434?utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.control))
+[Gradle配置教程](https://blog.csdn.net/xxf377376701/article/details/78114434?utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromMachineLearnPai2~default-1.control)
 
