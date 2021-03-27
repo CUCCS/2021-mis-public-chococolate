@@ -53,9 +53,9 @@
 
   ![](images/openwrt-login.png)
 
-**step2  实现通过浏览器访问openwrt管理界面 **
+**step2  实现通过浏览器访问openwrt管理界面**
 
-* 启动虚拟机，修改`/etc/config/network`中的IP地址；
+* 启动虚拟机，修改`/etc/config/network`中的IP地址：
 
   ![](images/change-ip.png)
 
@@ -63,7 +63,7 @@
 
 * 通过`opkg`下载并安装`luci`,x相关命令如下：
 
-  `opkg update`	 # 	更新 opkg 本地缓存
+  `opkg update`	 #	更新 opkg 本地缓存
 
   `opkg find luci`	# 	检索指定软件包
 
@@ -97,11 +97,11 @@
 
 * 登陆到管理页面，发现wireless选项，根据实验要求：
 
-  `Interface Configuration` 表单里 `Network` 勾选 `wan`
+  * `Interface Configuration` 表单里 `Network` 勾选 `wan`
 
-  虚拟网络类型必须设置为 `NAT`
+  * 虚拟网络类型必须设置为 `NAT`
 
-  手工设置信道和信号强度
+  * 手工设置信道和信号强度
 
 * 点击 `Enable` 按钮启用网络
 
