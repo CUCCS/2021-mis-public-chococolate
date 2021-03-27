@@ -43,7 +43,7 @@
 
 **step3 配置Gradle**
 
-* 创建项目后，打开`File->settings`,搜索`Gradle`进行配置，可选内置 `Gradle` 或自己安装的 gradle。
+* 创建项目后，打开`File->settings`,搜索`Gradle`进行配置，可选内置 `Gradle` 或自己安装的 `Gradle`。
 
   * 选择内置`Gradle`![](images/gradle.png)
 
